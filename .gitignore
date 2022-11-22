@@ -1,0 +1,6 @@
+#.gitignore
+
+tmp/*
+*.sqlite
+.vscode
+.idea
